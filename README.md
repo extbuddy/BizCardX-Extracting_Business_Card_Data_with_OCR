@@ -51,13 +51,13 @@
 ## User Guide
 
 #### Step 1. Data collection zone
-Click the upload button and select an image
+Click the 'Browse Files' button and select an image
 
 #### Step 2. Data upload
-Click the upload button to upload the data to the Mysql database
+Click the 'Upload to MySQL' button to upload the data to the Mysql database
 
 #### Step 3. Modification zone
-In this Modification zone, you can able to modify the information 
+In this 'Modification zone' you can able to modify the information 
 
 ## Video link
 
