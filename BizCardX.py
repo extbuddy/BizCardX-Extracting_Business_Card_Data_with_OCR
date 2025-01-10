@@ -1,6 +1,6 @@
 # =====================================================   /   /   Import library   /   /   ================================================= #
 
-!pip install git+https://github.com/JaidedAI/EasyOCR.git
+pip install git+https://github.com/JaidedAI/EasyOCR.git
 
 # [Scanning library]
 import easyocr
