@@ -1,7 +1,9 @@
 # =====================================================   /   /   Import library   /   /   ================================================= #
 
+pip install easyocr
+
 # [Scanning library]
-import easyocr 
+import easyOCR 
 # (Optical Character Recognition)
 import numpy as np
 import PIL
