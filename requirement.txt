@@ -1,0 +1,12 @@
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
+easyocr
+numpy
+PIL
+cv2
+os
+re
