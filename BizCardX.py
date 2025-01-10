@@ -1,6 +1,6 @@
 # =====================================================   /   /   Import library   /   /   ================================================= #
 
-# pip install easyocr
+!pip install easyocr
 
 # [Scanning library]
 import easyocr
