@@ -1,7 +1,8 @@
 # =====================================================   /   /   Import library   /   /   ================================================= #
 
 # [Scanning library]
-import easyocr # (Optical Character Recognition)
+import easyocr 
+# (Optical Character Recognition)
 import numpy as np
 import PIL
 from PIL import Image, ImageDraw
